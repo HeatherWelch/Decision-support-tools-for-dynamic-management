@@ -1,4 +1,5 @@
 # Decision-support-tools-for-dynamic-management
+[![DOI](https://zenodo.org/badge/166304984.svg)](https://zenodo.org/badge/latestdoi/166304984)
 
 Code supporting the publication Welch, H. et al 2019. Decision support tools for dynamic management. Conservation Biology.
 
