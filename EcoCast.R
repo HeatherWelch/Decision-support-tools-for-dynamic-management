@@ -12,7 +12,7 @@ Run_EcoCast=function(get_date,outdir,namesrisk,weightings){
   
   ## A. EcoCalc
   EcoCalc<-function(spp=species,risk=weightings,clipTarget=TRUE){
-    ecorisk<-species[[1]]*risk[1]+species[[1]]*risk[2]+species[[1]]*risk[3]+species[[1]]*risk[4]
+    ecorisk<-species[[1]]*risk[1]+species[[2]]*risk[2]+species[[3]]*risk[3]+species[[4]]*risk[4]
     return(ecorisk)
   }
   
